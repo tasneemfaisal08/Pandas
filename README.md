@@ -17,4 +17,4 @@ Series (1D labeled array, like a column in Excel).
 
 DataFrame (2D labeled data structure, like an Excel table or SQL table).
 
-Extremely powerful for cleaning, transforming, analyzing, and visualizing datasets.
+- Extremely powerful for cleaning, transforming, analyzing, and visualizing datasets.
